@@ -10,7 +10,7 @@
 
 **Vulnerability Category:** SQL Injection (SQLi)
 
-**Prepared By:** Benson Ngugi
+**Prepared By:** [Enme.Benson Ngugi](https://github.com/bensonngugi1)
 
 **Certification:** Certified Ethical Hacker (CEH)
 
@@ -134,7 +134,7 @@ Activities performed:
 
 #### Evidence
 
-**I'll add image here**
+[Input fields for SQLi payload](/SQLI/User input-payload used here.png)
 
 ---
 

@@ -250,7 +250,7 @@ The application improperly handled user-supplied input within SQL WHERE clauses.
 
 ### Screenshot 2: Successful Exploitation
 
-[This is the output](SQLI/Screenshot_20260607_111221.png)
+[This is the output](/SQLI/Screenshot_20260607_111221.png)
 
 ## Root Cause
 

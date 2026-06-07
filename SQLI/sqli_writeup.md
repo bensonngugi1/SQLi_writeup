@@ -1,4 +1,4 @@
-# SQL Injection (SQLi) Security Assessment Report
+ik# SQL Injection (SQLi) Security Assessment Report
 
 ---
 
@@ -166,7 +166,9 @@ Activities performed:
 
 ### Evidence
 
-[Looking for errors]()
+[False condition i.e 1=2](/SQLi/Boolean_testing.png)
+
+[True condition i.e 1=1](/SQLi/After_SQLI.png)
 
 ---
 

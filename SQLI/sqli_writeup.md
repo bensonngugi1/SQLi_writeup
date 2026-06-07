@@ -149,7 +149,7 @@ Activities performed:
 
 #### EvidencE
 
-**also here**
+[Identifying errors returned by database](/SQLI/Screenshot_20260607_172957.png)
 
 ---
 

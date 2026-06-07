@@ -1,4 +1,4 @@
-ik# SQL Injection (SQLi) Security Assessment Report
+# SQL Injection (SQLi) Security Assessment Report
 
 ---
 

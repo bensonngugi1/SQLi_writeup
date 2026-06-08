@@ -134,7 +134,7 @@ Activities performed:
 
 #### Evidence
 
-[Input field where a payload can be added](/SQLI/User_input_payload_used_here.png)
+![Input field where a payload can be added](/SQLI/User_input_payload_used_here.png)
 
 ---
 

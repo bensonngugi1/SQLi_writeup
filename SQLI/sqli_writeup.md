@@ -311,7 +311,7 @@ The login functionality failed to sanitize authentication inputs, allowing attac
 
 ## Evidence
 
-![Login Bypass Screenshot](/SQLI/Login_bypass.png)
+[Login Bypass Screenshot](/SQLI/Login_bypass.png)
 
 ## Root Cause
 

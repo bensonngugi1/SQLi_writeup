@@ -257,7 +257,7 @@ The application improperly handled user-supplied input within SQL WHERE clauses.
 
 ### Screenshot 1: Initial Application State
 
-[SQLi Hidden Data Before Exploitation](/SQLI/Before_SQLI.png)
+[SQLi Hidden Data Before Exploitation](/SQLI/Before_SQLi.png)
 
 ### Screenshot 2: Successful Exploitation
 

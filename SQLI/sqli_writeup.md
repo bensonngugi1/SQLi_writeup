@@ -166,9 +166,9 @@ Activities performed:
 
 ### Evidence
 
-[False condition i.e 1=2](/SQLi/Boolean_testing.png)
+[False condition i.e 1=2](/SQLI/Boolean_testing.png)
 
-[True condition i.e 1=1](/SQLi/After_SQLI.png)
+[True condition i.e 1=1](/SQLI/After_SQLI.png)
 
 ---
 
@@ -184,7 +184,14 @@ Activities performed:
 
 ### Evidence
 
-**auth. image here**
+[Authetication bypass](/SQLI/Login_bypass.png)
+
+**Payload used**
+
+```
+administrator'--
+
+```
 
 ---
 
@@ -250,11 +257,18 @@ The application improperly handled user-supplied input within SQL WHERE clauses.
 
 ### Screenshot 1: Initial Application State
 
-![SQLi Hidden Data Before Exploitation](images/sqli-hidden-data-before.png)
+[SQLi Hidden Data Before Exploitation](/SQLI/Before_SQLI.png)
 
 ### Screenshot 2: Successful Exploitation
 
-[This is the output](/SQLI/Screenshot_20260607_111221.png)
+[This is the output](/SQLI/After_SQLI.png)
+
+**Payload used**
+
+```
+'OR 1=1--
+
+```
 
 ## Root Cause
 

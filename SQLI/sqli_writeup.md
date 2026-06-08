@@ -313,6 +313,11 @@ The login functionality failed to sanitize authentication inputs, allowing attac
 
 [Login Bypass Screenshot](/SQLI/Login_bypass.png)
 
+```
+administrator'--
+
+```
+
 ## Root Cause
 
 Improper input handling in authentication queries.

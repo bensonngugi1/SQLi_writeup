@@ -149,9 +149,9 @@ Activities performed:
 
 #### EvidencE
 
-[Identifying errors returned by database](/SQLI/Screenshot_20260607_172957.png)
+![Identifying errors returned by database](/SQLI/Screenshot_20260607_172957.png)
 
-[Source:Altoro Mutual testing page](https://demo.testfire.net/login.jsp)
+![Source:Altoro Mutual testing page](https://demo.testfire.net/login.jsp)
 
 ---
 
@@ -166,9 +166,9 @@ Activities performed:
 
 ### Evidence
 
-[False condition i.e 1=2](/SQLI/Boolean_testing.png)
+![False condition i.e 1=2](/SQLI/Boolean_testing.png)
 
-[True condition i.e 1=1](/SQLI/After_SQLI.png)
+![True condition i.e 1=1](/SQLI/After_SQLI.png)
 
 ---
 
@@ -184,7 +184,7 @@ Activities performed:
 
 ### Evidence
 
-[Authetication bypass](/SQLI/Login_bypass.png)
+![Authetication bypass](/SQLI/Login_bypass.png)
 
 **Payload used**
 

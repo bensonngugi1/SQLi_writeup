@@ -261,7 +261,7 @@ The application improperly handled user-supplied input within SQL WHERE clauses.
 
 ### Screenshot 2: Successful Exploitation
 
-[This is the output](/SQLI/After_SQLI.png)
+[Showing all the data after exploiting](/SQLI/After_SQLI.png)
 
 **Payload used**
 
@@ -311,7 +311,7 @@ The login functionality failed to sanitize authentication inputs, allowing attac
 
 ## Evidence
 
-![Login Bypass Screenshot](images/login-bypass.png)
+![Login Bypass Screenshot](/SQLI/Login_bypass.png)
 
 ## Root Cause
 

@@ -410,7 +410,7 @@ Database Enumeration
 
 ## Evidence
 
-![Oracle Enumeration](images/oracle-enumeration.png)
+![Oracle Enumeration](/SQLI/Displaying_on_Oracle.png)
 
 ---
 
@@ -430,7 +430,7 @@ UNION-Based SQL Injection
 
 ## Evidence
 
-![Column Enumeration](images/union-columns.png)
+![Column Enumeration](/SQLI/Determining_number_of_columns.png)
 
 ---
 
@@ -450,7 +450,7 @@ UNION-Based SQL Injection
 
 ## Evidence
 
-![Finding Text Columns](images/union-text-column.png)
+![Finding Text Columns](/SQLI/Finding_column_with_text.png)
 
 ---
 
@@ -470,7 +470,7 @@ UNION-Based SQL Injection
 
 ## Evidence
 
-![Multiple Values Extraction](images/multiple-values.png)
+![Multiple Values Extraction](/SQLI/Retrieving_multiple_values.png)
 
 ---
 
@@ -490,7 +490,7 @@ UNION-Based SQL Injection
 
 ## Evidence
 
-![Cross Table Data Extraction](images/other-tables.png)
+![Cross Table Data Extraction](/SQLI/retrieving_data_from_other_tables.png)
 
 ---
 
@@ -512,11 +512,8 @@ Boolean-Based Blind SQL Injection
 
 ### Part 1
 
-![Conditional Responses 1](images/blind-conditional-1.png)
 
-### Part 2
-
-![Conditional Responses 2](images/blind-conditional-2.png)
+![Conditional Responses 2](images/Blind_sqli_with_conditional_responses.png)
 
 ---
 

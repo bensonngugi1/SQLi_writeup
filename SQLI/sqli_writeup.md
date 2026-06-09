@@ -302,7 +302,7 @@ The login functionality failed to sanitize authentication inputs, allowing attac
 
 ## Severity
 
-**Critical**
+**Critical** because an attacker may have the ability to log an administrator.
 
 ## Impact
 

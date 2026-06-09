@@ -16,7 +16,7 @@
 
 **Date:** 07/06/2026
 
-**Target Environment:** PortSwigger Web Security Academy Labs
+**Target Environment:** [Portswigger labs](portswigger.net) and [Altoro Mutual](demo.testfire.net)
 
 **Classification:** Educational / Authorized Security Testing
 
@@ -168,6 +168,7 @@ Activities performed:
 
 ![False condition i.e 1=2](/SQLI/Boolean_testing.png)
 
+
 ![True condition i.e 1=1](/SQLI/After_SQLI.png)
 
 ---
@@ -257,11 +258,11 @@ The application improperly handled user-supplied input within SQL WHERE clauses.
 
 ### Screenshot 1: Initial Application State
 
-[SQLi Hidden Data Before Exploitation](/SQLI/Before_SQLi.png)
+![SQLi Hidden Data Before Exploitation](/SQLI/Before_SQLi.png)
 
 ### Screenshot 2: Successful Exploitation
 
-[Showing all the data after exploiting](/SQLI/After_SQLI.png)
+![Showing all the data after exploiting](/SQLI/After_SQLI.png)
 
 **Payload used**
 
@@ -311,7 +312,7 @@ The login functionality failed to sanitize authentication inputs, allowing attac
 
 ## Evidence
 
-[Login Bypass Screenshot](/SQLI/Login_bypass.png)
+![Login Bypass Screenshot](/SQLI/Login_bypass.png)
 
 ```
 administrator'--
@@ -349,7 +350,13 @@ SQL Injection enabled extraction of database type and version information.
 
 ## Evidence
 
-![Database Version Enumeration](images/database-version.png)
+![Database Version of Oracle Enumeration](/SQLI/Obtaining_Oracle_version.png)
+
+**Payload Used**
+
+```
+' UNION SELECT 'TEST', NULL FROM dual--
+```
 
 ## Remedy
 

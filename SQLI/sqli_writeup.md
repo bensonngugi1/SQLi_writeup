@@ -382,7 +382,14 @@ Database Enumeration
 
 ## Evidence
 
-![Non Oracle Enumeration](images/non-oracle-enumeration.png)
+![Non Oracle Enumeration](/SQLI/non_oracles.png)
+
+**Payload Used**
+
+```
+' UNION SELECT NULL,@@version#
+
+```
 
 ---
 

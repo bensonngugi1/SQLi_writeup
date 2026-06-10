@@ -510,10 +510,9 @@ Boolean-Based Blind SQL Injection
 
 ## Evidence
 
-### Part 1
 
 
-![Conditional Responses 2](images/Blind_sqli_with_conditional_responses.png)
+![Conditional Responses ](/SQLI/Blind_sqli_with_conditional_responses.png)
 
 ---
 
@@ -533,13 +532,8 @@ Error-Based Blind SQL Injection
 
 ## Evidence
 
-### Part 1
 
-![Conditional Errors 1](images/blind-errors-1.png)
-
-### Part 2
-
-![Conditional Errors 2](images/blind-errors-2.png)
+![Conditional Errors ](/SQLI/Blind_sqli_with_cond_err.png)
 
 ---
 

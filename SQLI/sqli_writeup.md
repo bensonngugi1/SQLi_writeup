@@ -151,6 +151,10 @@ Activities performed:
 
 ![Identifying errors returned by database](/SQLI/Error_by_DB.png)
 
+**Payload used**
+
+```' -to see the error which shows that our input is interacting with database```
+
 [Source:Altoro Mutual testing page](https://demo.testfire.net/login.jsp)
 
 ---
@@ -171,6 +175,14 @@ Activities performed:
 
 ![True condition i.e 1=1](/SQLI/After_SQLI.png)
 
+**Payloads**
+
+```
+' 1=1 a true condition
+
+' 1=2 a flase condition
+
+```
 ---
 
 ## 4.4 Exploitation

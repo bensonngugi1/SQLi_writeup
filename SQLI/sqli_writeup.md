@@ -547,25 +547,7 @@ Error-Based Blind SQL Injection
 
 ![Conditional Errors ](/SQLI/Blind_sqli_with_cond_err.png)
 
----
 
-# 7.12 Visible Error-Based SQL Injection
-
-## Type
-
-Error-Based SQL Injection
-
-## Severity
-
-**High**
-
-## Impact
-
-- Direct database information disclosure
-
-## Evidence
-
-![Visible Error SQLi](images/error-based.png)
 
 ---
 
@@ -585,7 +567,14 @@ Time-Based Blind SQL Injection
 
 ## Evidence
 
-![Time Delay SQLi](images/time-delay.png)
+![Time Delay SQLi](/SQLI/sleep.png)
+
+**Payload Used**
+
+```
+'|| pg_sleep(10) ||'
+
+```
 
 ---
 

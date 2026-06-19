@@ -619,9 +619,7 @@ Out-of-Band SQL Injection
 
 - External interaction from database server
 
-## Evidence
 
-![OAST Interaction](images/oast-interaction.png)
 
 ---
 
@@ -639,9 +637,7 @@ Out-of-Band Data Exfiltration
 
 - Sensitive data exfiltration
 
-## Evidence
 
-![OAST Exfiltration](images/oast-exfiltration.png)
 
 ---
 
@@ -659,9 +655,7 @@ Filter Bypass SQL Injection
 
 - Circumvention of security controls
 
-## Evidence
 
-![XML Encoding Bypass](images/xml-bypass.png)
 
 ---
 
